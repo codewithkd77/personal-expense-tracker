@@ -159,6 +159,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 
 ## 🔗 Links
+Linkedin
 
 
 ## Demo
