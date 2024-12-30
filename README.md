@@ -158,7 +158,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 
 ## 🔗 Links
-Linkedin
+Linkedin[https://www.linkedin.com/in/kuldeepsinh-rathod-003340237?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 
 ## Demo
