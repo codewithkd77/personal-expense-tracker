@@ -1,4 +1,3 @@
-
 # Expense Management System using MERN Stack
 
 ## Project Description:
